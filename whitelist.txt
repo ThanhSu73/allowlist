@@ -1,26 +1,93 @@
-# ===== FACEBOOK =====
+# =========================
+# CORE INTERNET (KHÔNG ĐƯỢC BLOCK)
+# =========================
+cloudflare.com
+cloudflare-dns.com
+cloudfront.net
+akamaihd.net
+fastly.net
+
+# =========================
+# GOOGLE (LOGIN / ANDROID / YOUTUBE)
+# =========================
+google.com
+googleapis.com
+gstatic.com
+accounts.google.com
+clients3.google.com
+clients4.google.com
+
+# =========================
+# FACEBOOK / MESSENGER
+# =========================
 facebook.com
 fbcdn.net
 fbsbx.com
 messenger.com
+connect.facebook.net
 
-# ===== GOOGLE =====
-google.com
-gstatic.com
-googleapis.com
+# =========================
+# APPLE (IOS / ICLOUD / PUSH)
+# =========================
+apple.com
+icloud.com
+mzstatic.com
+push.apple.com
 
-# ===== ZALO (VIETNAM FIX) =====
+# =========================
+# MICROSOFT (WINDOWS / OFFICE)
+# =========================
+microsoft.com
+live.com
+office.com
+windowsupdate.com
+
+# =========================
+# ZALO (VIỆT NAM - QUAN TRỌNG)
+# =========================
 zalo.me
-zadn.vn
 zaloapp.com
+zadn.vn
+zalo-ads-apis.zaloapp.com
 
-# ===== BANKING VN =====
+# =========================
+# STREAMING / SMART TV
+# =========================
+netflix.com
+nflxvideo.net
+youtube.com
+ytimg.com
+spotify.com
+
+# =========================
+# BANKING VIỆT NAM (TRÁNH LỖI OTP / APP)
+# =========================
 vietcombank.com.vn
 techcombank.com.vn
 mbbank.com.vn
 bidv.com.vn
+agribank.com.vn
+vpbank.com.vn
+tpbank.com.vn
 
-# ===== CDN (TRÁNH LỖI WEB) =====
-cloudflare.com
-cloudfront.net
-akamaihd.net
+# =========================
+# IOT / SMART HOME
+# =========================
+tuya.com
+tuyaeu.com
+smartlifeapp.com
+mi.com
+xiaomi.com
+
+# =========================
+# NAS / SELF-HOST (TUỲ BẠN)
+# =========================
+synology.com
+quickconnect.to
+
+# =========================
+# OTA / UPDATE
+# =========================
+windows.com
+update.microsoft.com
+android.clients.google.com
