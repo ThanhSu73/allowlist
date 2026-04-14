@@ -1,0 +1,26 @@
+# ===== FACEBOOK =====
+facebook.com
+fbcdn.net
+fbsbx.com
+messenger.com
+
+# ===== GOOGLE =====
+google.com
+gstatic.com
+googleapis.com
+
+# ===== ZALO (VIETNAM FIX) =====
+zalo.me
+zadn.vn
+zaloapp.com
+
+# ===== BANKING VN =====
+vietcombank.com.vn
+techcombank.com.vn
+mbbank.com.vn
+bidv.com.vn
+
+# ===== CDN (TRÁNH LỖI WEB) =====
+cloudflare.com
+cloudfront.net
+akamaihd.net
